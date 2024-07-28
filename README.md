@@ -73,7 +73,25 @@ The Result comprizes of
 - Profit Overtime Dashboard
 - Customer-Product Dashboard
 
+Profit Overtime Dashboard                      |                     Customer-Product Dashboard                
+:---------------------------------------------:|:-----------------------------------------------:
+![](Visualization_of_Global_superstore_1.png) |  ![](Visualization_of_Global_superstore_2.png)
+
+
 **_To interact with the result_**
 - [click here](Analysis_of_globalsuperstore_data.xlsm)
 
+**_Please note_** : This is a **MACRO ENABLES WORKBOOK** to be able to interacte with the macro worksheet without interferance of blocked macro
+1. check the **_Unblock_** in security in properties setting
+2. enable macro in the macro settings when you open the file.
+ 
+_if error of macro presist_ close and reopen the workbook and run the macro on the clicked **_clear filter_** button
 
+## Recommendation
+
+- invest in marketing and promotion of Product in Canada Market to increase revenue generated
+- Bundling Product strategies can be implemented for the least selling Product
+- Refocus advertizing strategy to the least revenue generated contries
+
+## Limitation
+I had to remove the negative in values located in profit column because it wii affect the accuracy of the calculated columns when using DAX in Quick measure
