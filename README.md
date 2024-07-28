@@ -57,12 +57,12 @@ Before Data Cleaning                                |                         Af
 - **APAC** Market generate the highest Revenue with over 0.5% increase accross the years
 - The Top 3 OUT OF Top 5 countries generate 45.1% Revenue, showing **United State** generating the highest sales
 - There is significant increase in gross Profit & Revenue overtime
-- The **4th Quater** generate the highest revenue of $3.9M and is seen with a sisgnificate increase accross the Years
-- Weekdays generate the highest revenueband profit with over 99%
+- The **4th Quater** generate the highest revenue of $3.9M and is seen with a significate increase accross the Years
+- Weekdays generate the highest revenue and profit with over 99%
 
 #### Customer-Product Analysis and Findings
 
-- In product Categories, **Technology**, generate the highest sales and a profit magin of 37.18% amoung the three Categories, and remains the top selling Product category in Market except _CANADA_ and _LATAM_ Market
+- In product Categories, **Technology**, generate the highest sales and a profit magin of 37.18% amoung the three Categories, and remained the top selling Product category in Market except _CANADA_ and _LATAM_ Market
 - The Top 5 most sold and profitable Product by Sub-Categories generate over 55% Revenue from the 17 product Sub-Ctegories over the month years and Market
 - In the Analysis, **Consumers** made the highest orders by Customer Segment Generated over 49% of Revenue amoung the three segments
 - It is seen that **$61.8M Revenue** was generated, A Total **Discount of $7.3K**, A generated **$16.1M Profit** and a **Total Transaction of 51.3K**
