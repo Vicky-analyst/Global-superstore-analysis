@@ -14,7 +14,7 @@ Global superstore dataset : The dataset used for this analysis and project is th
 ### Problem Statement
 1. Which Market generate the highest Revenue & Profit?
 2. What Top/Bottom Countries and Regions generates the Highest and Lowest Sales?
-3. What is the gross Profit generated over time accross Years, Quaters and weeks?
+3. What is the gross Profit generated over time across Years, Quaters and weeks?
 4. What is the most demanded Products by Categories and Sub-Categories in Market and the Revenue & Profit generated in those demand?
 5. What is the Proportion of sales pattern of Customer by segment?
 6. What is the top Profitable Customers and the Revenue generated?
@@ -54,10 +54,10 @@ Before Data Cleaning                                |                         Af
 
 #### Profit OverTime Analysis and Findings
 
-- **APAC** Market generate the highest Revenue with over 0.5% increase accross the years
+- **APAC** Market generate the highest Revenue with over 0.5% increase across the years
 - The Top 3 OUT OF Top 5 countries generate 45.1% Revenue, showing **United State** generating the highest sales
 - There is significant increase in gross Profit & Revenue overtime
-- The **4th Quater** generate the highest revenue of $3.9M and is seen with a significate increase accross the Years
+- The **4th Quater** generate the highest revenue of $3.9M and is seen with a significate increase across the Years
 - Weekdays generate the highest revenue and profit with over 99%
 
 #### Customer-Product Analysis and Findings
