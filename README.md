@@ -63,13 +63,13 @@ Before Data Cleaning                                |                         Af
 #### Customer-Product Analysis and Findings
 
 - In product Categories, **Technology**, generate the highest sales and a profit magin of 37.18% amoung the three Categories, and remained the top selling Product category in Market except _CANADA_ and _LATAM_ Market
-- The Top 5 most sold and profitable Product by Sub-Categories generate over 55% Revenue from the 17 product Sub-Ctegories over the month years and Market
+- The Top 5 most sold and profitable Product by Sub-Categories generate over 55% Revenue from the 17 product Sub-Ctegories over the months, years and Market
 - In the Analysis, **Consumers** made the highest orders by Customer Segment Generated over 49% of Revenue amoung the three segments
 - It is seen that **$61.8M Revenue** was generated, A Total **Discount of $7.3K**, A generated **$16.1M Profit** and a **Total Transaction of 51.3K**
 
 ### Visualization 
 
-The Result comprizes of
+The Result comprises of
 - Profit Overtime Dashboard
 - Customer-Product Dashboard
 
