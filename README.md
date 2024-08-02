@@ -1,6 +1,6 @@
 # Global superstore analysis
 
-![](global_superstore.jpeg)
+![](global_sales_pic.jpg)
   
 ## Project Overview
 ---
