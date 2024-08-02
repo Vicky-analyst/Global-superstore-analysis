@@ -94,4 +94,4 @@ _if error of macro presist_ close and reopen the workbook and run the macro on t
 - Refocus advertizing strategy to the least revenue generated contries
 
 ## Limitation
-I had to remove the negative in values located in profit column because it wlii affect the accuracy of the calculated columns when using DAX in Quick measure
+I had to remove the negative in values located in profit column because it will affect the accuracy of the calculated columns when using DAX in Quick measure
