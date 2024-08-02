@@ -81,7 +81,7 @@ Profit Overtime Dashboard                      |                     Customer-Pr
 **_To interact with the result_**
 - [click here](Analysis_of_globalsuperstore_data.xlsm)
 
-**_Please note_** : This is a **MACRO ENABLES WORKBOOK** to be able to interacte with the macro worksheet without interferance of blocked macro
+**_Please note_** : This is a **MACRO ENABLES WORKBOOK** to be able to interact with the macro worksheet without interferance of blocked macro
 1. check the **_Unblock_** in security in properties setting
 2. enable macro in the macro settings when you open the file.
  
