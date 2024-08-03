@@ -13,7 +13,7 @@ Global superstore dataset : The dataset used for this analysis and project is th
 
 ### Problem Statement
 1. Which Market generate the highest Revenue & Profit?
-2. What Top/Bottom Countries and Regions generates the Highest and Lowest Sales?
+2. What Top Countries and Regions generates the Highest Sales?
 3. What is the gross Profit generated over time across Years, Quaters and weeks?
 4. What is the most demanded Products by Categories and Sub-Categories in Market and the Revenue & Profit generated in those demand?
 5. What is the Proportion of sales pattern of Customer by segment?
