@@ -5,7 +5,7 @@
 ## Project Overview
 ---
 
-This Global superstore Project Analysis aims to provide insight of global superstore sales by analyzing various top sales in **Region**, **Countries** and **Market**, Providing the Profit and Revenue generated over time across the Top sales, it also aim to identify Product that is mostly demanded in Market and to get a deeper understanding of sales pattern Customers by segment
+This Global superstore Project Analysis aims to provide insight of global superstore sales by analyzing various top sales in **Region**, **Countries** and **Market**, Providing the Profit and Revenue generated over time across the Top sales, it also aim to identify Product that is mostly demanded in Market and to get a deeper understanding of sales pattern of Customers by segment
 
 ### Data Source
 
