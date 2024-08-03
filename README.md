@@ -91,7 +91,7 @@ _if error of macro presist_ close and reopen the workbook and run the macro on t
 
 - invest in marketing and promotion of Product in Canada Market to increase revenue generated
 - Bundling Product strategies can be implemented for the least selling Product
-- Refocus advertizing strategy to the least revenue generated contries
+- Refocus advertizing strategy to the least revenue generated countries
 
 ## Limitation
 I had to remove the negative in values located in profit column because it will affect the accuracy of the calculated columns when using DAX in Quick measure
